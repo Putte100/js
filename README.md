@@ -1,5 +1,7 @@
 # JavaScript
 Er uppgift är att göra en **'fork'** av denna repository till er egen GitHub.
+*(Man gör en 'fork' genom att klicka på pilen bredvid knappen Fork uppe i högra hörnet och väljer 'Create a new fork')*
+
 När ni gjort detta skall ni skapa en slags 'spelplan' där det skall finnas **X** gånger **X** antal rutor.
 X är ett heltal som skall kunna ändras enkelt för att få olika stor 'spelplan'.
 
