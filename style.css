@@ -1,0 +1,10 @@
+:root{
+    /* Colors */
+    /* Fonts */
+}
+*{
+    /*Stuff to always do*/
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
